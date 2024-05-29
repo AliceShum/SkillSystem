@@ -1,0 +1,3 @@
+BaseAttackSkill=Skill/BaseAttackSkill
+CircleAttackSkill=Skill/CircleAttackSkill
+SectorAttackSkill=Skill/SectorAttackSkill
